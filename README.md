@@ -21,6 +21,20 @@ https://www.mext.go.jp/a_menu/shotou/new-cs/1407074.htm
 
 ラベル付け後、本データセットの下記記載のライセンスでの公開については当該学生らの許可を取得している。
 
+### 引用
+
+可能であれば論文などで引用する際は、下記をお使いいただければ幸いです。
+
+```BibTeX
+@InProceedings{ehara2025c,
+title="JMMLUの物理・化学・生物データセットの学習指導要領に基づく難度付け",
+author="江原 遥",
+booktitle="言語処理学会第31回年次大会 併設ワークショップ JLR2025 LT",
+year=2025,
+url="https://jedworkshop.github.io/JLR2025/program/",
+}
+```
+
 ## ライセンス
 
 問題文、選択肢A、選択肢B、選択肢C、選択肢D、答えは、下記の著作権表示に示すJMMLUをそのまま複製したものである。
