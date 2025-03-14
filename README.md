@@ -1,4 +1,4 @@
-# CosLabeled_JMMLU_high_school
+# JMMLUsciencedifficulty
 JMMLU（日本語マルチタスク言語理解ベンチマーク）のhigh_school_physics.csv, high_school_chemistry.csv, high_school_biology.csvについて、日本の学習指導要領(the Courses of Study)に照らした難易度を付与したもの。
 
 ## 項目
