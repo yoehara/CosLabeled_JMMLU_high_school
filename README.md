@@ -26,7 +26,19 @@ https://www.mext.go.jp/a_menu/shotou/new-cs/1407074.htm
 問題文、選択肢A、選択肢B、選択肢C、選択肢D、答えは、下記の著作権表示に示すJMMLUをそのまま複製したものである。
 JMMLUはCC-BY-SA-4.0 licenseであり、本データセットも当該ライセンスと同じライセンスで公開している。
 
-## JMMLUの著作権表示
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+### 改変元のJMMLUの著作権表示
 JMMLU
 日本語マルチタスク言語理解ベンチマーク Japanese Massive Multitask Language Understanding Benchmark
 https://github.com/nlp-waseda/JMMLU
